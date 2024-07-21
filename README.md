@@ -1,2 +1,2 @@
-"Laguerre–volterra feed-forward neural network for modeling PAM-4 high-speed links" X Wang, T Nguyen, JE Schutt-Ainé - IEEE Transactions on Components, Packaging (https://ieeexplore.ieee.org/abstract/document/9265412)
+Papers: "Laguerre–volterra feed-forward neural network for modeling PAM-4 high-speed links" X Wang, T Nguyen, JE Schutt-Ainé - IEEE Transactions on Components, Packaging (https://ieeexplore.ieee.org/abstract/document/9265412)
 "PAM-4 behavioral modeling using machine learning via laguerre-volterra expansion"  X Wang, T Nguyen, JE Schutt-Ainé 2020 IEEE 11th Latin American Symposium on Circuits & Systems (LASCAS), 1-4 (https://ieeexplore.ieee.org/abstract/document/9068976)
